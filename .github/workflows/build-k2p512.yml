@@ -1,4 +1,4 @@
-name: Build K2P512v5
+name: Build K2P-usb-512v6
 
 on:
   workflow_dispatch:
